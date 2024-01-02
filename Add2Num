@@ -29,3 +29,11 @@ class Num2
       System.out.print("\nRequired Sum: " + sum);
    }
 }
+
+output :
+Enter the first number: 2
+
+Enter the second number: 3
+
+Required Sum: 5
+
